@@ -1,0 +1,1 @@
+query_id=AAGUzPhgAAAAAJTM-GB9MG8L&user=%7B%22id%22%3A1626918036%2C%22first_name%22%3A%22Nguy%E1%BB%85n%22%2C%22last_name%22%3A%22%C4%90%E1%BB%A9c%22%2C%22username%22%3A%22jamesfinleyx%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729567631&hash=b7ebc9ec07ed33b255d8d2a798915d221613a36f3a73b9f601d95e7aaff44a02
